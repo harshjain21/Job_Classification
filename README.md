@@ -1,5 +1,3 @@
-# ML_assignment_3
-The following projects are done as a part of assignment for a job application
 # Job Classification Project: End-to-End Machine Learning Solution
 
 This repository contains the code and documentation for an end-to-end machine learning project aimed at classifying job postings into predefined categories. The solution covers data preprocessing, unsupervised label generation using NLP, supervised model training, evaluation, and data visualization.
