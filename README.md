@@ -1,4 +1,4 @@
-# Job Classification Project: End-to-End Machine Learning Solution
+# Job Classification Project
 
 This repository contains the code and documentation for an end-to-end machine learning project aimed at classifying job postings into predefined categories. The solution covers data preprocessing, unsupervised label generation using NLP, supervised model training, evaluation, and data visualization.
 
@@ -19,7 +19,9 @@ The core challenge involved transforming unstructured text and varied structured
 
 ## 2. Data Collection & Initial Understanding
 
-**Data Source:** The project assumes the availability of a dataset of job postings, typically provided as a CSV file (e.g., your\_job\_data.csv).
+**Dataset Name:** Job Description Dataset
+
+**Kaggle URL:** https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset
 
 **Initial Columns:**
 
